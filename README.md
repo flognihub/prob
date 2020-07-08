@@ -1,3 +1,3 @@
 # prob
 first tests
-a copy of a ping ping game for getting familiar with python
+a copy of a ping pong game for getting familiar with python
